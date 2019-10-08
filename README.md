@@ -75,6 +75,9 @@ For more information, check out our [updated paper draft](https://drive.google.c
 
 
 # Updates
+Version 1.3
+* Divide synaptic clusters into single synapses.
+
 Version 1.2
 * Allow for the detection of pre-, post-synaptic puncta and synaptic sites.
 * Add the function of combining pre-, post-synaptic puncta detection results.
@@ -86,6 +89,7 @@ Version 1.2
 Version 1.1
 * Add the component tree structure for synapse detection suggested by Dr.Petter Ranefall. 3 times faster than before
 * Output ROI regions overlaid with original synaptic data. Quantification can be done based on detected synapses or synaptic sites.
+
 
 # Reference
 ## Citation
