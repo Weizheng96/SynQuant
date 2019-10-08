@@ -42,7 +42,7 @@ Please open an issue. We are happy to help!
 For more details, download our user guide [here](https://drive.google.com/file/d/1YND2SoC8yUhU6LBVBY-8TO1Wul8f0TnO/view?usp=sharing). -->
 
 # Getting started
-1. [Downlaod SynQuant](https://github.com/yu-lab-vt/SynQuant/releases). 
+1. [Downlaod SynQuant](https://github.com/Weizheng96/SynQuant/releases). 
     * If you do not have Fiji yet, get it [here](https://fiji.sc/).
 2. Put the downloaded jar file to the `plugin` folder of Fiji.
 3. Open Fiji and load the image. 
